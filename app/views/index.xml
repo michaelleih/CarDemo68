@@ -1,8 +1,3 @@
 <Alloy>
-	<Collection src="cars"/>
-	<Window id="mainWindow" class="container">
-		<TableView dataCollection="cars" dataTransform="transform" dataFilter="filter">
-			<TableViewRow title="{title}" modelId="{id}"/>
-		</TableView>
-	</Window>
+	<!-Nothing needed here   -->
 </Alloy>
